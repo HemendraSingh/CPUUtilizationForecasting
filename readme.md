@@ -12,6 +12,7 @@ python -m venv env
 
 pip install -r requirements.txt
 
+<br/>
 **Setting Up Python Virtual Environment Locally (Linux)**
 
 Firstly change directory to the current folder. Then execute the below commands.
