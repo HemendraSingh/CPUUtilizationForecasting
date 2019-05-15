@@ -1,3 +1,5 @@
+CPU Utilization Forecasting implements SARIMAX alogirthm to forecast future CPU usage.
+
 Setting Up Python Virtual Environment Locally (Windows)
 Firstly change directory to the current folder. Then execute the below commands.
 python -m venv env
