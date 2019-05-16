@@ -1,4 +1,4 @@
-CPU Utilization Forecasting implements SARIMAX alogirthm to forecast future CPU usage.
+CPU Utilization Forecasting implements SARIMAX machine learning alogirthm to forecast future CPU usage.
 
 ![CPU Utilization Forecast](https://drive.google.com/uc?id=1nhZ9U2QU61dF-ZHJEJDSbi4-Ym3xamfv)
 
